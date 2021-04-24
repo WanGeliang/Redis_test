@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6a905f8-8539-4121-980c-535b032126f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop_tools\maven_repository" />
+        <option name="mavenHome" value="D:/develop_tools/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\develop_tools\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ndqoqo9vSXBUkG38jUCBcKHazc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.20.RELEASE/spring-context-4.3.20.RELEASE-sources.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.demo1">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuling.testscope.MainClass" />
+      <module name="spring-anno-priciple-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuling.testscope.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuling.Proxy.demo1" />
+      <module name="spring-anno-priciple-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuling.Proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demo1" />
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6a905f8-8539-4121-980c-535b032126f5" name="Default Changelist" comment="" />
+      <created>1611730492930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611730492930</updated>
+      <workItem from="1611730495159" duration="1164000" />
+      <workItem from="1615692639216" duration="5759000" />
+      <workItem from="1615793255611" duration="2870000" />
+      <workItem from="1615861123945" duration="2958000" />
+      <workItem from="1615950427489" duration="1863000" />
+      <workItem from="1616031565184" duration="4191000" />
+      <workItem from="1616560797952" duration="14000" />
+      <workItem from="1617350224273" duration="471000" />
+      <workItem from="1617697228578" duration="1514000" />
+      <workItem from="1618325534436" duration="1283000" />
+      <workItem from="1618384531865" duration="3009000" />
+      <workItem from="1618413426485" duration="1567000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1611730539912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1611730539912" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1615793392498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1615793392498" />
+    <state x="549" y="102" key="FileChooserDialogImpl" timestamp="1618413584837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="102" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1618413584837" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1615811614254">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615811614254" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1615811614254">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615811614254" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1615811614254">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615811614254" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1615811614254">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615811614254" />
+    <state x="408" y="110" key="NewModule_or_Project.wizard" timestamp="1611730527006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="110" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1611730527006" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1611730548521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611730548520" />
+    <state x="490" y="154" width="543" height="524" key="StructurePopup" timestamp="1618414170072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="543" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1618414170072" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1618413805419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1618413805419" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.20.RELEASE/spring-beans-4.3.20.RELEASE-sources.jar!/org/springframework/beans/factory/support/SimpleBeanDefinitionRegistry.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

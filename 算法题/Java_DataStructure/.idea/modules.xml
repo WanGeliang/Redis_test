@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/BinarySearchNoRecurion.iml" filepath="$PROJECT_DIR$/Algorithm/BinarySearchNoRecurion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_DataStructure.iml" filepath="$PROJECT_DIR$/Java_DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datasource_avl/datasource_avl.iml" filepath="$PROJECT_DIR$/datasource_avl/datasource_avl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datasource_binarySortTree/datasource_binarySortTree.iml" filepath="$PROJECT_DIR$/datasource_binarySortTree/datasource_binarySortTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datasource_graph/datasource_graph.iml" filepath="$PROJECT_DIR$/datasource_graph/datasource_graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datasource_hash/datasource_hash.iml" filepath="$PROJECT_DIR$/datasource_hash/datasource_hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datasource_huffmancode/datasource_huffmancode.iml" filepath="$PROJECT_DIR$/datasource_huffmancode/datasource_huffmancode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datasource_linkedlist/datasource_linkedlist.iml" filepath="$PROJECT_DIR$/datasource_linkedlist/datasource_linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datasource_queue/datasource_queue.iml" filepath="$PROJECT_DIR$/datasource_queue/datasource_queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datasource_recursion/datasource_recursion.iml" filepath="$PROJECT_DIR$/datasource_recursion/datasource_recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datasource_search/datasource_search.iml" filepath="$PROJECT_DIR$/datasource_search/datasource_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datasource_sort/datasource_sort.iml" filepath="$PROJECT_DIR$/datasource_sort/datasource_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datasource_stack/datasource_stack.iml" filepath="$PROJECT_DIR$/datasource_stack/datasource_stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datasource_tree/datasource_tree.iml" filepath="$PROJECT_DIR$/datasource_tree/datasource_tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/hhk.iml" filepath="$PROJECT_DIR$/Algorithm/hhk.iml" />
+    </modules>
+  </component>
+</project>
